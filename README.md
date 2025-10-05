@@ -10,7 +10,7 @@
 
 **[agno_hello/](./src/agno_hello/)**
 
-Think of Agno as the “nice guy” of frameworks — super intuitive APIs, smooth workflows, and overall just *pleasant* to build collaborative AI systems with. No stress, just vibes.
+Think of Agno as the "nice guy" of frameworks — super intuitive APIs, smooth workflows, and overall just *pleasant* to build collaborative AI systems with. No stress, just vibes.
 
 ---
 
@@ -18,7 +18,7 @@ Think of Agno as the “nice guy” of frameworks — super intuitive APIs, smoo
 
 **[autogen\_dev_team/](./src/autogen_dev_team/)**
 
-Wanna simulate a lil dev team in your terminal? AutoGen’s got two AI agents vibing together — one writes Python sorting algos, the other roasts and fixes the code through back-and-forth convos. Perfect for tinkering and research.
+Wanna simulate a lil dev team in your terminal? AutoGen's got two AI agents vibing together — one writes Python sorting algos, the other roasts and fixes the code through back-and-forth convos. Perfect for tinkering and research.
 
 ---
 
@@ -34,7 +34,7 @@ CrewAI is like assembling a mini Avengers team of AI agents. Each plays a role, 
 
 **[langchain\_rag_agent/](./src/langchain_rag_agent/)**
 
-A classic RAG (Retrieval-Augmented Generation) setup built on LangChain. If your agents need some *receipts* (a.k.a. context), this one’s your go-to.
+A classic RAG (Retrieval-Augmented Generation) setup built on LangChain. If your agents need some *receipts* (a.k.a. context), this one's your go-to.
 
 ---
 
@@ -42,7 +42,7 @@ A classic RAG (Retrieval-Augmented Generation) setup built on LangChain. If your
 
 **[langgraph_workflows/](./src/langgraph_branching_agent/)**
 
-When things get *complicated™*, LangGraph steps in. It’s built for complex, cyclical workflows with human-in-the-loop interactions and advanced state management. Nerds, assemble 🧑‍💻
+When things get *complicated™*, LangGraph steps in. It's built for complex, cyclical workflows with human-in-the-loop interactions and advanced state management. Nerds, assemble 🧑‍💻
 
 ---
 
@@ -52,7 +52,7 @@ When things get *complicated™*, LangGraph steps in. It’s built for complex, 
 
 **[type\_safe_news_agent/](./src/type_safe_news_agent/)**
 
-This one keeps your code ✨unbreakable✨ thanks to Pydantic validation. If you love strict typing and hate runtime surprises, you’ll vibe with this.
+This one keeps your code ✨unbreakable✨ thanks to Pydantic validation. If you love strict typing and hate runtime surprises, you'll vibe with this.
 
 ---
 
