@@ -6,8 +6,6 @@
 
 ## 🧠 Multi-Agent Playground — Pick Your Vibe
 
----
-
 ### ✨ **Agno** — Clean & Chill Dev Experience
 
 **[agno_hello/](./src/agno_hello/)**
