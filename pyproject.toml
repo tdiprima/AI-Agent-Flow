@@ -1,0 +1,22 @@
+[project]
+name = "ai-agent-flow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ag2[openai]>=0.9.10",
+    "agno>=2.1.1",
+    "autogen-ext>=0.7.5",
+    "beautifulsoup4>=4.14.2",
+    "crewai>=0.201.1",
+    "instructor>=1.11.3",
+    "langchain>=0.3.27",
+    "langgraph>=0.6.8",
+    "pyautogen>=0.10.0",
+    "pydantic>=2.11.10",
+    "pydantic-ai>=1.0.15",
+    "requests>=2.32.5",
+    "smolagents>=1.22.0",
+    "yfinance>=0.2.66",
+]
