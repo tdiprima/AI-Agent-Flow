@@ -48,9 +48,9 @@ When things get *complicated™*, LangGraph steps in. It’s built for complex, 
 
 ### ✅ **PydanticAI** — Type Safety, But Make It Fun
 
-**[pydantic_agents/](./src/pydantic_ai_example/)**
+**[pydantic\_ai_example/](./src/pydantic_ai_example/)**
 
-**[pydantic_agents/](./src/type_safe_news_agent/)**
+**[type\_safe_news_agent/](./src/type_safe_news_agent/)**
 
 This one keeps your code ✨unbreakable✨ thanks to Pydantic validation. If you love strict typing and hate runtime surprises, you’ll vibe with this.
 
