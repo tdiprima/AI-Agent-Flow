@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/tdiprima/OpenAI-Cookbook)
 ![Languages](https://img.shields.io/github/languages/top/tdiprima/OpenAI-Cookbook)
-![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![Personal](https://img.shields.io/badge/repo-personal-blueviolet)
 
 ## 🧠 Multi-Agent Playground — Pick Your Vibe
 
